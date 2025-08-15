@@ -24,9 +24,9 @@
 - pip install -r requirements.txt
 
 4. Set up environment variables:
-MY_EMAIL=your_email@gmail.com \n
-GROQ_API_KEY=your_groq_api_key \n
-GOOGLE_API_KEY=your_gemini_api_key \n
+MY_EMAIL=your_email@gmail.com  
+GROQ_API_KEY=your_groq_api_key  
+GOOGLE_API_KEY=your_gemini_api_key  
 
 
 *How to start*
